@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi! I am Fernanda
 
-<!--
-**fernandavch/fernandavch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Cybersecurity Practitioner | Advanced Red Team Diploma Student**
+> Focused on offensive security, Linux administration, and technical documentation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Focus & Specialization
+* **Pentesting:** Web (XXE, BOLA, IDOR), AWS Security, Evasion Techniques.
+* **Infrastructure:** Linux System Administration (LFCS path), Bash scripting, Kali Linux.
+* **Environment:** Terminal-centric workflow, Vim, CLI-first tools.
+
+### Certification and Education Path
+
+* Currently preparing for the eJPT certification
+* **Advanced Red Team Diploma** (Capacitación Usach) - *Expected April 2026*
+* **Blue Team Diploma** (Capacitación Usach) - *April 2024*
